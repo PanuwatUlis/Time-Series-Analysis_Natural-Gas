@@ -10,7 +10,7 @@ natural gas demand
 
 Data set info: source of data set from investing.com, freq. daily data set periods from 1990-2020
 
-Description
+Description:
 the framework of this project start with exploratory data analysis to find price distribution to specify
 trading range and daily return distribution for setting proper target price when start to trading. Then use
 Time series analysis to decompose historical price. Find seasonality, what month I can start to allocate cash
